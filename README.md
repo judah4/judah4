@@ -1,4 +1,11 @@
-### Hi there 👋
+# Judah Perez
+
+Software Engineer and Indie MMO Developer.
+
+- 🔭 I’m currently working on [TwoKinds Online](https://www.twokinds.online) and [Dragon Game Framework](https://github.com/judah4/MMO-Dragon-Game-Framwork)
+- 💬 Ask me about video games!
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I guess I don't really have a fun fact... Oh! I run the [IGDA San Diego](https://www.igdasandiego.org) chapter here in San Diego.
 
 <!--
 **judah4/judah4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
