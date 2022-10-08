@@ -3,7 +3,7 @@
 Software Engineer and Indie MMO Developer.
 
 - 🔭 I’m currently working on [TwoKinds Online](https://www.twokinds.online) and [Dragon Game Framework](https://github.com/judah4/MMO-Dragon-Game-Framwork)
-- 💬 Ask me about video games!
+- 💬 Ask me about multiplayer/online video games!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I guess I don't really have a fun fact... Oh! I run the [IGDA San Diego](https://www.igdasandiego.org) chapter here in San Diego.
 
