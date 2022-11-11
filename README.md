@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 ## Site Links
 [TwoKinds Online](https://www.twokinds.online)  
 [Cookie Dragon Games](https://www.cookiedragon.games)  
-[Inconsistent Softeware Blog](https://www.inconsistent.software)  
+[Inconsistent Software Blog](https://www.inconsistent.software)  
 <a rel="me" href="https://dragon.style/@cookie">Mastodon</a>  
