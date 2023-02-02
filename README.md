@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 
 ## Site Links
-[Previous Game - TwoKinds Online](https://www.twokinds.online)  
-[Inconsistent Software Blog](https://www.inconsistent.software)  
+Previous Game - [TwoKinds Online](https://www.twokinds.online)  
+Blog - [Inconsistent Software](https://www.inconsistent.software)  
