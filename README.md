@@ -1,8 +1,8 @@
 # Judah Perez
 
-Software Engineer and Indie MMO Developer.
+Video Games Software Engineer and Previously Indie MMO Developer.
 
-- 🔭 I’m currently working on [TwoKinds Online](https://www.twokinds.online) and [Dragon Game Framework](https://github.com/judah4/MMO-Dragon-Game-Framwork)
+- 🔭 I’m currently working on [HSV Color Picker for Unity]([https://www.twokinds.online](https://github.com/judah4/HSV-Color-Picker-Unity)) and [Dragon Game Framework](https://github.com/judah4/MMO-Dragon-Game-Framwork)
 - 💬 Ask me about multiplayer/online video games!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I guess I don't really have a fun fact... Oh! I run the [IGDA San Diego](https://www.igdasandiego.org) chapter here in San Diego.
@@ -26,7 +26,5 @@ Here are some ideas to get you started:
 
 
 ## Site Links
-[TwoKinds Online](https://www.twokinds.online)  
-[Cookie Dragon Games](https://www.cookiedragon.games)  
+[Previous Game - TwoKinds Online](https://www.twokinds.online)  
 [Inconsistent Software Blog](https://www.inconsistent.software)  
-<a rel="me" href="https://dragon.style/@cookie">Mastodon</a>  
